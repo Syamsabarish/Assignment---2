@@ -1,1 +1,3 @@
 # Assignment---2
+
+The raw Excel file containing 5 files -( vaccine introduction data ,vaccine schedule data,disease incidence,reported cases,coverage data) data was first cleaned by handling missing values, and standardizing column names and numeric fields. The cleaned data was then stored as tables in SQLite3, ensuring data integrity and proper structure. Using an ODBC connection, these SQL tables were imported into Power BI, enabling the creation of interactive dashboards and visualizations directly from the database. This workflow ensures scalable, accurate, and up-to-date analysis of disease and vaccination data.
